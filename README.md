@@ -1,2 +1,3 @@
 # Food subscription website layout
-Try: [Omnifood]([https://pages.github.com/](https://romanzinkivomnifoodproject.netlify.app/)https://romanzinkivomnifoodproject.netlify.app/)
+<br/>
+Try: [Omnifood](https://romanzinkivomnifoodproject.netlify.app/)
